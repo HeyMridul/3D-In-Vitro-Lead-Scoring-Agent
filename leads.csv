@@ -1,0 +1,5 @@
+rank,score,name,title,company,email,person_location,company_hq,is_hub,is_remote,company_funding,linkedin_url,phone
+1,70,Dr. Sarah Chen,Director of Toxicology,BioGen Therapeutics,s.chen@biogen.com,Cambridge,"Cambridge, MA",True,True,Series B,https://linkedin.com/in/sarah-chen,+1-617-555-0123
+2,70,Dr. Raj Patel,Director of Preclinical Safety,NovaCure Bio,r.patel@novacure.ch,Basel,"Basel, Switzerland",True,True,Series B,https://linkedin.com/in/raj-patel,+41-61-555-0234
+3,65,Dr. Michael Torres,Head of Safety Assessment,Apex Pharma,m.torres@apexpharma.com,Denver,"Boston, MA",True,True,Series A,https://linkedin.com/in/michael-torres,+1-720-555-0156
+4,50,Jennifer Walsh,VP Toxicology,MedTech Solutions,j.walsh@medtech.com,San Francisco,"San Francisco, CA",True,True,Series C,https://linkedin.com/in/jennifer-walsh,+1-415-555-0198
