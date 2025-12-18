@@ -1,17 +1,8 @@
 # Ignore the virtual environment folder
 venv/
 .env
-
-# Ignore data files (Privacy!)
-leads.csv
-*.csv
-
-# Keep sample data if you create it
-!leads_sample.csv
-
 # Ignore compiled python files (junk)
 __pycache__/
 *.pyc
-
 # Ignore system files
 .DS_Store
